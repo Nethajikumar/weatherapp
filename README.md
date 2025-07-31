@@ -34,7 +34,7 @@ A modern, responsive weather forecast web application built using **React.js** a
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/your-username/weatherapp.git
 cd weather-app
 2. Install Dependencies
 bash
